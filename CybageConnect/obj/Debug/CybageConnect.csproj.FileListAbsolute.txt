@@ -1,0 +1,7 @@
+E:\Cybage Connect\CybageConnect\bin\Debug\CybageConnect.exe.config
+E:\Cybage Connect\CybageConnect\bin\Debug\CybageConnect.exe
+E:\Cybage Connect\CybageConnect\bin\Debug\CybageConnect.pdb
+E:\Cybage Connect\CybageConnect\obj\Debug\CybageConnect.csproj.AssemblyReference.cache
+E:\Cybage Connect\CybageConnect\obj\Debug\CybageConnect.csproj.CoreCompileInputs.cache
+E:\Cybage Connect\CybageConnect\obj\Debug\CybageConnect.exe
+E:\Cybage Connect\CybageConnect\obj\Debug\CybageConnect.pdb
